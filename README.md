@@ -1,5 +1,3 @@
-: octocat :
-
 # Sobre Mim
 
 * Eu sou estudante de Sistemas de Informação, sou técnico em Informática para Internet.
