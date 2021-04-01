@@ -1,16 +1,19 @@
-### Hi there 👋
+: octocat :
 
-<!--
-**LucasSarri/LucasSarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre Mim
 
-Here are some ideas to get you started:
+* Eu sou estudante de Sistemas de Informação, sou técnico em Informática para Internet.
+* Atualmente trabalho como Analista de Suporte na Delta Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos
+
+1. Javascript, CSS e HTML.
+2. Node JS e React.
+3. Git e Github.
+4. SQL (MySQL, Postgree) e NoSQL (MongoDB).
+5. Métodos Ágeis.
+
+### Atualmente Aprendendo
+
+1. Python.
+2. React Native.
