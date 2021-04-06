@@ -15,3 +15,6 @@
 
 1. Python.
 2. React Native.
+
+
+[![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri)](https://github.com/anuraghazra/github-readme-stats)
