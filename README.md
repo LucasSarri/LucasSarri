@@ -1,4 +1,4 @@
-[![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri)](https://github.com/LucasSarri/github-readme-stats)
+[![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=github_dark)](https://github.com/LucasSarri/github-readme-stats)
 
 # Sobre Mim
 
