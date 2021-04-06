@@ -15,4 +15,4 @@
 1. Python.
 2. React Native.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri)](https://github.com/LucasSarri/github-readme-stats)
+[![LucasSarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri)](https://github.com/LucasSarri/github-readme-stats)
