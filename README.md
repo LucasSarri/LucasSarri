@@ -1,4 +1,4 @@
-[![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=github_dark)(https://github.com/LucasSarri/github-readme-stats)]
+![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=radical)
 
 # Sobre Mim
 * Eu sou estudante de Sistemas de Informação, sou técnico em Informática para Internet.
@@ -15,4 +15,4 @@
 1. Python.
 2. React Native.
 
-[![LucasSarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri&theme=github_dark)(https://github.com/LucasSarri/github-readme-stats)]
+[![LucasSarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri)](https://github.com/anuraghazraLucasSarri/github-readme-stats)
