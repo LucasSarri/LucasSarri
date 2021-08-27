@@ -1,7 +1,8 @@
 ![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=midnight-purple&count_private=true)
 
 # Sobre Mim :sunglasses:
-* Eu sou estudante de Sistemas de Informação, sou técnico em Informática para Internet.
+* Técnico em Informática para Internet.
+* Cursando Sistemas de Informação na UEMS campus Dourados.
 * Atualmente trabalho como Analista de Suporte na Delta Sistemas.
 
 ## Conhecimentos :desktop_computer:
