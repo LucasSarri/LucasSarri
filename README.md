@@ -19,5 +19,4 @@
 
 ### Atualmente Aprendendo :computer: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"> Angular</code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png"> Python</code>
