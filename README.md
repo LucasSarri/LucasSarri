@@ -1,14 +1,14 @@
 ## Olá, eu sou Lucas Sarri
 
-- 🧑‍🎓 Trabalho como Helpdesk na Delta Sistemas
-- 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
+> 🧑‍🎓 Trabalho como Helpdesk na Delta Sistemas
+> 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
 
 ## 
 
 <div>
   <a href="https://github.com/LucasSarri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 ##
@@ -33,4 +33,6 @@
   <a href = "mailto:lucassarrirock@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/LucasSarri/LucasSarri/blob/outputgithub-contribution-grid-snake.svg)
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
