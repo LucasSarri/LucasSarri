@@ -1,14 +1,14 @@
 ## Olá, eu sou Lucas Sarri
 
-> 🧑‍🎓 Trabalho como Helpdesk na Delta Sistemas
-> 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
+* 🧑‍🎓 Trabalho como Helpdesk na Delta Sistemas
+* 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
 
 ## 
 
 <div>
   <a href="https://github.com/LucasSarri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme= tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme= tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme= algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme= algolia"/>
 </div>
 
 ##
