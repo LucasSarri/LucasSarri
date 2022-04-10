@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/LucasSarri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme= tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme= tokyonight"/>
 </div>
 
 ##
@@ -35,4 +35,13 @@
 
 ##
 
+[![Lucas Sarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri)](https://github.com/LucasSarri)
+
+##
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Paradigmas_Programacao)](https://github.com/LucasSarri/Paradigmas_Programacao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo-TypeScript)](https://github.com/LucasSarri/Estudo-TypeScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_ShellScript-Linux)](https://github.com/LucasSarri/Estudo_ShellScript-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_SQL)](https://github.com/LucasSarri/Estudo_SQL)
