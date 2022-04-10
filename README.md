@@ -1,22 +1,21 @@
-![LucasSarri GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=midnight-purple&count_private=true)
+## Olá, eu sou Lucas Sarri
 
-# Sobre Mim :sunglasses:
-* Técnico em Informática para Internet.
-* Cursando Sistemas de Informação na UEMS campus Dourados.
-* Atualmente trabalho como Analista de Suporte na Delta Sistemas.
+- 🧑‍🎓 Trabalho como Helpdesk na Delta Sistemas
+- 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
 
-## Conhecimentos :desktop_computer:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"> CSS</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"> HTML</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node JS</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> Mongo DB</code>
+<div>
+  <a href="https://github.com/LucasSarri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSarri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarri&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
----
-
-### Atualmente Aprendendo :computer: 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png"> Python</code>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
