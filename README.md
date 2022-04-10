@@ -35,11 +35,11 @@
 
 ##
 
-[![Lucas Sarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri)](https://github.com/LucasSarri)
+[![Lucas Sarri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasSarri&theme=algolia)](https://github.com/LucasSarri)
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python&theme=algolia)](https://github.com/LucasSarri/Estudos-Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Paradigmas_Programacao)](https://github.com/LucasSarri/Paradigmas_Programacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo-TypeScript)](https://github.com/LucasSarri/Estudo-TypeScript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
