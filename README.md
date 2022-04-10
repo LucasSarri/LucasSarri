@@ -40,8 +40,8 @@
 ##
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python&theme=algolia)](https://github.com/LucasSarri/Estudos-Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Paradigmas_Programacao)](https://github.com/LucasSarri/Paradigmas_Programacao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo-TypeScript)](https://github.com/LucasSarri/Estudo-TypeScript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python)](https://github.com/LucasSarri/Estudos-Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_ShellScript-Linux)](https://github.com/LucasSarri/Estudo_ShellScript-Linux)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_SQL)](https://github.com/LucasSarri/Estudo_SQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Paradigmas_Programacao&theme=algolia)](https://github.com/LucasSarri/Paradigmas_Programacao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo-TypeScript&theme=algolia)](https://github.com/LucasSarri/Estudo-TypeScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudos-Python&theme=algolia)](https://github.com/LucasSarri/Estudos-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_ShellScript-Linux&theme=algolia)](https://github.com/LucasSarri/Estudo_ShellScript-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSarri&repo=Estudo_SQL&theme=algolia)](https://github.com/LucasSarri/Estudo_SQL)
