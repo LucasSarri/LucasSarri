@@ -3,12 +3,6 @@
 * 🧑‍🎓 Trabalho como Auxiliar de TI na Matra Tratores
 * 📖 Faço Sistemas de Informação na Universidade Estadua de Mato Grosso do Sul
 
-## 
-
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSarri)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
