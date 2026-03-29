@@ -1,17 +1,104 @@
-<h1 align="center">Olá 👋, meu nome é Lucas Sarri de Mello</h1>
-<h3 align="center">Sou um estudante de Sistemas de Informação, sou técnico em Informática para Internet</h3>
+# 👨‍💻 Lucas Sarri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassarri&label=Profile%20views&color=0e75b6&style=flat" alt="lucassarri" /> </p>
+Desenvolvedor Backend focado em **Node.js + TypeScript**, construindo APIs e sistemas reais com preocupação em **arquitetura, organização e escalabilidade**.
 
-- 🧑‍💼 Atualmente eu trabalho no **PreviD - Instituto de Previdência Social dos Servidores do Município de Dourados**
+Atualmente em transição de carreira de suporte para desenvolvimento, com projetos práticos que simulam cenários de produção.
 
-- 🌱 Atualmente estou estudando **TypeScript, JavaScript, HTML, CSS e Python**
+---
 
-- 📫 Email para contato **lucassarri@hotmail.com**
+## 🚀 Stack principal
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassarri&show_icons=true&locale=en&layout=compact" alt="lucassarri" /></p>
+* Node.js
+* TypeScript
+* Express
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassarri&show_icons=true&locale=en" alt="lucassarri" /></p>
+**Banco de Dados**
+
+* PostgreSQL
+* MySQL
+* TypeORM (ORM)
+
+**Conceitos e práticas**
+
+* Arquitetura em camadas (Controller, Service, Repository)
+* REST APIs
+* Modelagem relacional
+* Separação de responsabilidades
+* Organização de código escalável
+
+---
+
+## 🧠 Projetos relevantes
+
+### 🔹 Sistema de Gestão de Atendimentos Psicológicos
+
+Sistema completo desenvolvido para controle de atendimentos em clínicas e instituições de ensino.
+
+**O que esse projeto demonstra:**
+
+* Estrutura backend bem organizada (camadas)
+* Relacionamentos complexos com TypeORM
+* CRUD completo com regras de negócio
+* Modelagem de entidades reais (Patient, Psychologist, Appointment, etc.)
+
+**Principais funcionalidades:**
+
+* Cadastro de pacientes (prontuário)
+* Registro de atendimentos
+* Gestão de psicólogos
+* Organização por unidades e cursos
+* Visualização de agenda
+
+🔗 *Em breve disponível no GitHub*
+
+---
+
+### 🔹 GamifyScrum
+
+Ferramenta para planejamento de atividades gamificadas aplicadas ao Scrum.
+
+**Destaques:**
+
+* Estruturação de lógica de negócio
+* Organização de dados para geração dinâmica de atividades
+* Projeto com foco acadêmico + aplicação prática
+
+🔗 https://github.com/LucasSarri/GamifyScrum
+
+---
+
+## 📈 O que estou evoluindo agora
+
+* Arquitetura de software (boas práticas reais de mercado)
+* Clean Code
+* Estruturação de APIs mais robustas
+* Preparação para ambientes de produção
+
+---
+
+## 🎯 Objetivo profissional
+
+Atuar como desenvolvedor backend, contribuindo com sistemas organizados, escaláveis e bem estruturados, enquanto continuo evoluindo tecnicamente dentro de um ambiente profissional.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloque aqui)
+* GitHub: https://github.com/SEU_USUARIO
+
+---
+
+## ⚡ Diferencial
+
+Meus projetos não são apenas acadêmicos — são construídos simulando problemas reais, com foco em organização, manutenção e crescimento do sistema.
