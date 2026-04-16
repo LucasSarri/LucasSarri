@@ -65,7 +65,7 @@ Ferramenta para planejamento de atividades gamificadas aplicadas ao Scrum.
 * Organização de dados para geração dinâmica de atividades
 * Projeto com foco acadêmico + aplicação prática
 
-🔗 https://github.com/LucasSarri/GamifyScrum
+🔗 [https://github.com/LucasSarri/GamifyScrum](https://gamifyscrum.onrender.com/)
 
 ---
 
@@ -86,8 +86,8 @@ Atuar como desenvolvedor backend, contribuindo com sistemas organizados, escalá
 
 ## 📫 Contato
 
-* LinkedIn: (coloque aqui)
-* GitHub: https://github.com/LucasSarri
+* LinkedIn: [Lucas Sarri](https://www.linkedin.com/in/lucas-sarri-de-mello-a54776206/)
+* Email: lucassarri@hotmail.com
 
 ---
 
